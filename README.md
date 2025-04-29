@@ -56,6 +56,22 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+
+![image](https://github.com/user-attachments/assets/b6c0d51e-906f-4a40-b8f0-3a1b423f8a1e)
+
+***HALF SUBTRACTOR***
+
+![image](https://github.com/user-attachments/assets/4121cdfe-3293-417d-a2fa-9497804216a0)
+
 **Output/TIMING Waveform**
 
+
+![image](https://github.com/user-attachments/assets/233a153a-c84c-45d5-bf7b-db4b9f884db3)
+
+***HALF SUBTRACT***
+
+
+![image](https://github.com/user-attachments/assets/a7040c26-aa9b-4b96-861e-d53e894c42dc)
+
 **Result:**
+Thus the OUTPUT's of Encoder and Decoder are verified by synthesizing and simulating the VERILOG code.
